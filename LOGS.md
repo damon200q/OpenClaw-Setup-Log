@@ -15,5 +15,8 @@
 - **挑战：** 只要少一个双引号，程序就会报 `JSONDecodeError`。
 - **研究：** 我学会了使用代码编辑器的 JSON 插件来辅助检查语法，并最终理顺了 OpenAI 和 Telegram 的鉴权逻辑。
 
+- <img width="273" height="535" alt="image" src="https://github.com/user-attachments/assets/3e4fea41-c3f1-47fa-b923-6ee8a0c87a6b" />
+
+
 结语：为何选择卸载？
 卸载并不是因为失败，而是因为我已经完成了对 OpenClaw 核心逻辑的掌握。我成功证明了自己可以独立构建一套“抓取-分析-推送”的 AI 工作流。下一步，我计划将这些经验融入到我的 Solitude OS 个人系统设计中，实现更高级的集成。
